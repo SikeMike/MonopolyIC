@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>1.0</groupId>
-	<artifactId>CICastellano</artifactId>
+	<artifactId>MonopolyIC-Mike</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -48,10 +48,10 @@
 		<maven.compiler.target>1.8</maven.compiler.target>
 		<maven.compiler.source>1.8</maven.compiler.source>
 
-		<sonar.organization>jononekin</sonar.organization>
+		<sonar.organization>sikemike</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.projectKey>jononekin_cicastellano</sonar.projectKey>
-		<sonar.login>5bb3d0b3b8817d07a3e3ae27ed6a861f35747f56</sonar.login>
+		<sonar.projectKey>sikemike_monopoly-intcont</sonar.projectKey>
+		<sonar.login>07c21bd87545c084db11a3bb16a95026b37c1875</sonar.login>
 	</properties>
 
 	<!-- https://mvnrepository.com/artifact/junit/junit -->
